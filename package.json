@@ -1,0 +1,24 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot budget",
+  "main": "script.js",
+  "scripts": {
+    "test": "chatbudg"
+  },
+  "keywords": [
+    "chatbot",
+    "budget"
+  ],
+  "author": "Siara Saavedra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.1",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.3.1"
+  }
+}
